@@ -7,6 +7,11 @@ This is an a list of resources for learning the steps to build foundation models
 
 ---
 
+## Self Supervised Methods
+* NeurIPS-2020 - Bootstrap your own latent: A new approach to self-supervised learning [[Paper]](https://arxiv.org/abs/2006.07733) [[Code]](https://github.com/google-deepmind/deepmind-research/tree/master/byol)
+* CVPR-2021 - Emerging Properties in Self-Supervised Vision Transformers [[Paper]](https://arxiv.org/abs/2104.14294) [[Code]](https://github.com/facebookresearch/dino)
+* CVPR-2023 - DINOv2: Learning Robust Visual Features without Supervision [[Paper]](https://arxiv.org/abs/2304.07193) [[Code]](https://github.com/facebookresearch/dinov2)
+
 ## Courses
 
 * 2024-MIT - Introduction to Data Centric AI [[Webpage]](https://dcai.csail.mit.edu/2024/)
